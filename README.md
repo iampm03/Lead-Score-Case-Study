@@ -1,5 +1,4 @@
 # Lead-Score-Case-Study
-# Lead Scoring Case Study - X Education
 
 ## Overview
 
